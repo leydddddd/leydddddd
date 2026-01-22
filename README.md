@@ -1,4 +1,4 @@
-<h4 align="center">Alive and Well. <br>Wide range of skills yet understand nothing, with passion to learn and improve.<br>Never master anything, neverthless intersect with many things.</h4>
+<h4 align="center">Alive and Well. <br>Wide range of skills yet understand nothing, passionate to learn and improve.<br>Never master anything, neverthless intersect with many things.</h4>
 
 ###
 
